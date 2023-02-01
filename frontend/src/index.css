@@ -1,0 +1,37 @@
+main{
+  min-height: 74vh;
+  margin-top: 120px;
+}
+h3{
+  padding: 1rem 0;
+}
+h1{
+  font-size: 1.8 rem;
+  padding: 1rem, o;
+}
+h2{
+  font-size: 1.4 rem;
+  padding: 0.5rem 0;
+}
+.qty{
+  padding: 4px !important;
+}
+.card-img-top{
+min-height: 175px;
+}
+.card{
+  min-height: 280px;
+  max-height: 280px;
+}
+.booknow{
+  text-decoration: none;
+  color: red;
+  margin-left: 30px;
+  text-transform: none;
+}
+.booknow:hover{
+  text-decoration: none;
+}
+.react-datepicker__triangle{
+  transform: translate3d(40.2px, 0px, 0px) !important;
+}
